@@ -57,7 +57,7 @@
 }
 #aSide {
     height: 100%;
-    width: 1900px;
+    width: 600px;
     position: absolute;
     top: 50px;
     left: 600px;
@@ -65,8 +65,8 @@
 
 
 #aSide model-viewer {
-    height: 100%;
-    width: 1900px;
+    height: 4000px;
+    width: 2000px;
     position: left;
     top: 0;
     left: 0;
