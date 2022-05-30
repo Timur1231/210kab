@@ -16,7 +16,7 @@
 
 
 #content {
-    height: 100vh;
+    height: 100%;
     width: 100%;
     position: absolute;
        
@@ -65,8 +65,8 @@
 
 
 #aSide model-viewer {
-    height: 700px;
-    width: 900px;
+    height: 100%;
+    width: 1900px;
     position: left;
     top: 0;
     left: 0;
