@@ -65,9 +65,9 @@
 
 
 #aSide model-viewer {
-    height: 8000px;
-    width: 4000px;
-    position: left;
+    height: 3000px;
+    width: 1500px;
+    position: absolute;
     top: 0;
     left: 0;
     border: none;
