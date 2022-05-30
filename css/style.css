@@ -56,8 +56,8 @@
     background: navy;
 }
 #aSide {
-    height: 600px;
-    width: 600px;
+    height: 100%;
+    width: 1900px;
     position: absolute;
     top: 50px;
     left: 600px;
