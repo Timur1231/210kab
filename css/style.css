@@ -16,10 +16,10 @@
 
 
 #content {
-    height: 200px;
-    width: 800px;
+    height: 100%;
+    width: 100%;
     position: absolute;
-    left: 12%;
+
     top: calc(50% - 250px);
 }
 
